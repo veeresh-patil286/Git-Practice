@@ -3,3 +3,9 @@ hi boss
 git
 veeresh 
 dvsbdyhs
+<<<<<<< HEAD
+=======
+sbfveerehbsjhuh
+bbsdfuh
+git practise
+>>>>>>> 452b2c33e5f515f0fe886427a9eff9c9dd79c644
